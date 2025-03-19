@@ -41,7 +41,7 @@ O projeto está organizado em diversos arquivos que representam diferentes funci
 ### Usando pip
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/python-algo-trading.git
+git clone https://github.com/caiquemiranda/python-algo-trading.git
 cd python-algo-trading
 
 # Instale as dependências
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ### Usando Docker
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/python-algo-trading.git
+git clone https://github.com/caiquemiranda/python-algo-trading.git
 cd python-algo-trading
 
 # Construa a imagem Docker
